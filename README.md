@@ -35,15 +35,14 @@ The main objective is to analyze the disease from incidence rate, risk factors, 
   2. Did All oral cancer show the same symptoms?
 
 - **Diagnosis:**
-  1. When was the tumor mostly diagnosed and in which size?
-  2. Did the early diagnosis main small size of tumor?
-  3. Top 5 early-diagnosed countries?
+  1. In which stage is the tumor mostly diagnosed?
+  2. In which size is the tumor mostly diagnosed?
+  3. Did the early diagnosis mainly mean a small size of tumor?
+  4. Top 5 early-diagnosed countries?
 
 - **Treatment and Survival Rate:**
-  1. There is relation between the type of treatment and survival rate?
-  2. There is relation between the size and stage of tumor and survival rate?
-  3. Did the cost of treatment affect survival rate?
-  4. What is the average economic burden in the top 5 affected countries?
+  1. Is there relation between the survival rate and Cancer Stage, Age, Type of treatment and Cost?
+  2. What is the mean of the cost of treatment for each stage?
 
 - **Audiences**
 ---
@@ -56,3 +55,29 @@ The main objective is to analyze the disease from incidence rate, risk factors, 
 - **The dataset source:**
 ---
 > 🔗 https://www.kaggle.com/datasets/ankushpanday2/oral-cancer-prediction-dataset?resource=download
+
+- **Recommendations**
+---
+> **A.	Healthcare/Campaigns Recommendations**
+1.	Improve screening strategies and polices
+2.	Increase campaigns that targeted the highly risk group
+3.	Increase supporting programs for low-Income patients
+
+>**B.	Public Recommendations**
+1.	Stop smoking and alcohol
+2.	Maintain the oral hygiene
+3.	Reduce the sun exposure and put sun screen
+4.	Increase the vegetables and fruits intake 
+5.	Monitor the unusual symptoms
+6.	Visit dentist regularly
+
+- **Golden Dentist Advice**
+---
+
+“If you have a white/red patch or a sore in your mouth that doesn't heal within 2 weeks should be consult a dentist to rule out any serious conditions”
+
+- **Analysis tools**
+---
+
+1. Python
+2. Power BI
