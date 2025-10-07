@@ -52,10 +52,6 @@ The main objective is to analyze the disease from incidence rate, risk factors, 
   4. Policymakers
   5. Organizers of awareness campaigns
 
-- **The dataset source:**
----
-> 🔗 https://www.kaggle.com/datasets/ankushpanday2/oral-cancer-prediction-dataset?resource=download
-
 - **Recommendations**
 ---
 > **A.	Healthcare/Campaigns Recommendations**
@@ -81,3 +77,7 @@ The main objective is to analyze the disease from incidence rate, risk factors, 
 
 1. Python
 2. Power BI
+
+- **The dataset source:**
+---
+> 🔗 https://www.kaggle.com/datasets/ankushpanday2/oral-cancer-prediction-dataset?resource=download
